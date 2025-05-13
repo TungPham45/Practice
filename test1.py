@@ -1,0 +1,1 @@
+print("First time utilitarian pratice on AI", 4, 5, sep = " ")
