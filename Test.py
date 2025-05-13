@@ -1,0 +1,1 @@
+print('Chang', ' xinh vaix ', 'ca nho', 2 , 3, end = '@@')
